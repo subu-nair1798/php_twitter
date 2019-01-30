@@ -1,0 +1,31 @@
+#nav_bar{
+}
+
+/*#retweet-div{
+	display: none;
+}
+*/
+body{
+    background-image: url("socio.jpg");
+    background-size: 200vh 110vh;
+}
+
+.jumbotron{
+    opacity: 0.9;
+}
+
+#input_home{
+    float: left;
+}
+
+/*#twitter_feed{
+	display: none;
+}
+*/
+#input_bar{
+	float: left;
+}
+
+form{
+	display: inline;
+}
